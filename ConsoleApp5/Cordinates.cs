@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics;
-using System.Globalization;
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 
